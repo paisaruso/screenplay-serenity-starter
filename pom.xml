@@ -12,7 +12,9 @@
         <serenity.cucumber.version>2.6.0</serenity.cucumber.version>
         <maven.compiler.source>1.8</maven.compiler.source>
                 <maven.compiler.target>1.8</maven.compiler.target>
-                <maven-surefire.version>2.22.1</maven-surefire.version>        
+                <maven-surefire.version>2.22.1</maven-surefire.version>
+      <sonar.organization>paisaruso</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>     
   
     <dependencies>
